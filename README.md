@@ -35,7 +35,7 @@ Make sure you have a [Figma](http://figma.com/) account to access it.
 - [Node.js](https://nodejs.org/en/)
 - [Yarn](https://classic.yarnpkg.com/) or [npm](https://www.npmjs.com/package/npm)
 
-**Clone proect**
+**Clone project**
 
 ```bash
 git clone https://github.com/odairdev/feedget_web
