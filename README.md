@@ -45,6 +45,18 @@ git clone https://github.com/odairdev/feedget_web
 
 ### Web
 
+```bash
+# Install the dependencies
+$ npm install
+
+# Make a copy of '.env.local.example' to '.env.local'
+$ cp .env.local.example .env.local
+
+# Start the application
+$ npm run dev
+```
+**Make sure to have the server running**
+
 **Check out server repository if don't have one coded**
 
 <a href="https://github.com/odairdev/feedget_server">Feedget Server</a>
